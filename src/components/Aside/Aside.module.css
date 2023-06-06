@@ -1,0 +1,15 @@
+.aside {
+  background: #091336;
+  padding: 23px 0;
+  width: 240px;
+  font-family: 'SF Pro Display', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 0.6);
+}
+.aside_logo {
+  margin-bottom: 32.5px;
+  padding-left: 12px;
+}
