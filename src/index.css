@@ -4,6 +4,16 @@
   margin: 0;
 }
 
-main {
+#root {
   display: flex;
+  height: 100%;
+
+}
+/* main {
+  display: flex;
+  flex-direction: c;
+} */
+
+main {
+  width: 100%;
 }

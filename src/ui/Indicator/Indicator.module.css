@@ -1,0 +1,42 @@
+/* .indicator {
+  width: 156px;
+  height: 6px;
+  background: #DEE6F5;
+  border-radius: 12px;
+  position: relative;
+}
+
+.indicator > span {
+  display: block;
+  color: green;
+  height: 100%;
+  width: 67%;
+  position: absolute;
+  left: 0;
+  z-index: 1;
+} */
+
+.indicator {
+ background-color: #DEE6F5;
+ height: 6px;
+ /* padding: 5px; */
+ width: 156px;
+ position: relative;
+ /* margin: 50px 0; */
+
+ border-radius: 12px;
+ /* -moz-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+ -webkit-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+ box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444; */
+}
+
+/* .indicator span {
+ display: inline-block;
+ position: absolute;
+ background: green;
+ height: 6px;
+ width: 67%;
+
+ border-radius: 12px;
+
+}   */
